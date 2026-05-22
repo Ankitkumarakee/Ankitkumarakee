@@ -28,7 +28,6 @@ I build practical analytics projects using Excel, SQL, Power BI and PostgreSQL w
 
 📈 [powerBI-dashboard-projects](https://github.com/Ankitkumarakee/Power-Bi_Projects.git)
 
-🗄 [SQL-analysis-projects]
 
 ---
 
