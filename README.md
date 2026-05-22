@@ -16,7 +16,7 @@ I am building practical projects in Data Analytics.
 
 📊 [Excel Dashboard Projects]()
 
-📈 [Power BI Dashboard Projects](
+📈 [Power BI Dashboard Projects](https://github.com/Ankitkumarakee/Power-Bi_Projects.git)
 
 🗄 [SQL Analysis Projects]
 
