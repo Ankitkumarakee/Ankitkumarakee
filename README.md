@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ankit 👋
 
-<!--
-**Ankitkumarakee/Ankitkumarakee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am building practical projects in Data Analytics.
 
-Here are some ideas to get you started:
+### Skills
+✔ Excel  
+✔ SQL  
+✔ Power BI  
+✔ PostgreSQL  
+✔ Python (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+📊 Excel Dashboard Projects
+
+📈 Power BI Dashboard Projects
+
+🗄 SQL Analysis Projects
+
+---
+
+## Current Focus
+Learning Data Analytics and AI
+
+---
+
+## Connect
+
+LinkedIn:
+linkedin.com/in/ankit-kumar-akee
+
+Email:
+ankitkumarakee@outlook.com
