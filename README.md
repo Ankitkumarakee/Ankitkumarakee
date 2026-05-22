@@ -14,11 +14,11 @@ I am building practical projects in Data Analytics.
 
 ## Featured Projects
 
-📊 [Excel Dashboard Projects](https://github.com/Ankitkumarakee/Excel-Dashboard_Projects.git)
+📊 [excel-dashboard-projects](https://github.com/Ankitkumarakee/Excel-Dashboard_Projects.git)
 
-📈 [Power BI Dashboard Projects](https://github.com/Ankitkumarakee/Power-Bi_Projects.git)
+📈 [powerBI-dashboard-projects](https://github.com/Ankitkumarakee/Power-Bi_Projects.git)
 
-🗄 [SQL Analysis Projects]
+🗄 [SQL-analysis-projects]
 
 ---
 
