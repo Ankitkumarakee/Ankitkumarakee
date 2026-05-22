@@ -14,11 +14,11 @@ I am building practical projects in Data Analytics.
 
 ## Featured Projects
 
-📊 Excel Dashboard Projects
+📊 [Excel Dashboard Projects]()
 
-📈 Power BI Dashboard Projects
+📈 [Power BI Dashboard Projects](
 
-🗄 SQL Analysis Projects
+🗄 [SQL Analysis Projects]
 
 ---
 
