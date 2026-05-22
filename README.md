@@ -1,7 +1,7 @@
 # Hi, I'm Ankit 👋
 
 ## About Me
-I am building practical projects in Data Analytics.
+I build practical analytics projects using Excel, SQL, Power BI and PostgreSQL while expanding into Python and AI.
 
 ### Skills
 ✔ Excel  
@@ -9,6 +9,16 @@ I am building practical projects in Data Analytics.
 ✔ Power BI  
 ✔ PostgreSQL  
 ✔ Python (Learning)
+
+---
+
+## Tools
+
+• Excel  
+• Power BI  
+• PostgreSQL  
+• GitHub  
+• VS Code
 
 ---
 
@@ -22,8 +32,8 @@ I am building practical projects in Data Analytics.
 
 ---
 
-## Current Focus
-Learning Data Analytics and AI
+## Current Goal:
+Build 10 portfolio projects in Data Analytics
 
 ---
 
