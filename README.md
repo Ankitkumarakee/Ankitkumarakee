@@ -14,7 +14,7 @@ I am building practical projects in Data Analytics.
 
 ## Featured Projects
 
-📊 [Excel Dashboard Projects]()
+📊 [Excel Dashboard Projects](https://github.com/Ankitkumarakee/Excel-Dashboard_Projects.git)
 
 📈 [Power BI Dashboard Projects](https://github.com/Ankitkumarakee/Power-Bi_Projects.git)
 
